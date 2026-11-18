@@ -1,0 +1,6 @@
+{
+  "name": "昭梧 ZHAOWU",
+  "description": "讓天時有形，讓命理可讀。昭梧官方命理與天時系統，提供八字排盤、真太陽時、天象黃曆、五行色彩與人生指引。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
